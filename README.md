@@ -1,5 +1,5 @@
 # Hora_do_dia
-conforme muda o horário do aparelho que esta conectado a imagem e a cor de funda mudam.
+conforme muda o horário do aparelho que está conectado a imagem e a cor de funda mudam.
 
 
 ![Logo do Markdown](Screenshot%202022%2D11%2D14%2018.38.35.png)
